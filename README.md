@@ -18,7 +18,8 @@ Real-time streaming responses with Markdown rendering
 ### 3. **Subscription**
 ![Idea Generation](./screenshots/subscription-table.png)
 
-Overview
+📋 Overview
+
 A full-stack AI-powered SaaS application that generates innovative business ideas using OpenAI's GPT models. This application features a modern Next.js frontend, a FastAPI backend, real-time streaming responses, professional authentication with Clerk, and subscription management.
 ✨ Features
 
